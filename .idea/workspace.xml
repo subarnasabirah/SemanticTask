@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3b2e1040-656f-439a-9d99-257a40063603" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1vYgeVlMGnCjgwuc49zYGYNtSRs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Vedio  and Audio" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3b2e1040-656f-439a-9d99-257a40063603" name="Default Changelist" comment="" />
+      <created>1626744532623</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1626744532623</updated>
+      <workItem from="1626744533825" duration="612000" />
+      <workItem from="1627188241316" duration="702000" />
+      <workItem from="1627361773781" duration="5096000" />
+      <workItem from="1627392358234" duration="7254000" />
+      <workItem from="1627440535715" duration="2128000" />
+      <workItem from="1628043567034" duration="5562000" />
+      <workItem from="1628070917994" duration="1295000" />
+      <workItem from="1628160684755" duration="2450000" />
+      <workItem from="1628341299186" duration="13018000" />
+      <workItem from="1628389285398" duration="9067000" />
+      <workItem from="1628423390037" duration="8040000" />
+      <workItem from="1628475449484" duration="5028000" />
+      <workItem from="1628505049600" duration="1512000" />
+      <workItem from="1628528893381" duration="1139000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="124" key="FileChooserDialogImpl" timestamp="1628071063041">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="463" y="124" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1628071063041" />
+    <state x="339" y="165" key="run.anything.popup" timestamp="1628350346673">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="339" y="165" key="run.anything.popup/0.0.1366.738@0.0.1366.738" timestamp="1628350346673" />
+  </component>
+</project>
